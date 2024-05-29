@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/attenuation/static/css/main.def31c20.css",
-    "main.js": "/attenuation/static/js/main.98b503dd.js",
+    "main.js": "/attenuation/static/js/main.ad589392.js",
     "static/js/206.ab69250d.chunk.js": "/attenuation/static/js/206.ab69250d.chunk.js",
     "index.html": "/attenuation/index.html"
   },
   "entrypoints": [
     "static/css/main.def31c20.css",
-    "static/js/main.98b503dd.js"
+    "static/js/main.ad589392.js"
   ]
 }
